@@ -1,0 +1,70 @@
+.hs-wrapper img{
+	top: 0px;
+	left: 15px;
+	height: 100%;
+	position: absolute;
+	-webkit-animation: paused;
+	-moz-animation: paused;
+	-o-animation: paused;
+	-ms-animation: paused;
+	animation: paused;
+	-webkit-animation-play-state: paused;
+	-moz-animation-play-state: paused;
+	-o-animation-play-state: paused;
+	-ms-animation-play-state: paused;
+	animation-play-state: paused;	
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+	margin: 20px 2px;
+	margin-bottom: 40px;
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+
+.button2 {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #008CBA;
+}
+
+.button2:hover {
+    background-color: #008CBA;
+    color: white;
+}
+
+.rating1 {
+
+    direction: ltr;
+    margin-bottom: 1em;
+    margin-top: 1em;
+
+}
+
+.simpleCart_shelfItem p {
+
+    font-size: 1.2em;
+    color: #212121;
+    margin: 0;
+    font-weight: 600;
+
+}
+
+.w3ls_mobiles_grid_left_grid_sub {
+
+    padding: 0em 1em 0em;
+
+}
+
+.jumbotron {
+    margin-left: 340;
+}
