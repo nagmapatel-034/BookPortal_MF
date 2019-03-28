@@ -3,7 +3,7 @@
 @section('content')
 @include('inc.header')
 <?php use App\book_author; ?>
-<!-- Dispay recorded database--> 
+<!-- Display recorded database--> 
 <br><br>
 <div class="container">
         @if(isset($details))
